@@ -3,6 +3,8 @@
 A web application for predicting stages of **Alzheimer’s disease** using a deep learning model. The app accepts an MRI image and outputs the predicted stage of Alzheimer’s disease.
 
 ---
+![Web App Demo](/demo.png)
+---
 
 ## Features
 
