@@ -18,17 +18,12 @@ A web application for predicting stages of **Alzheimer’s disease** using a dee
 - Provides **confidence scores** for each class.
 - Generates a **Grad-CAM visualization** to explain predictions.
 
-<!-- ---
 
 ## Deployed Application
 
 The web application is deployed and accessible at:
 
-**[http://<your-deployed-ip>:8000](http://<your-deployed-ip>:8000)**
-
-Replace `<your-deployed-ip>` with the actual IP address or domain where the application is hosted. -->
-
----
+**[http://195.201.113.83>:8000](http://<195.201.113.83>:8000)**
 
 ## Requirements
 
