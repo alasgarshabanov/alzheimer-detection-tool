@@ -23,7 +23,7 @@ A web application for predicting stages of **Alzheimer’s disease** using a dee
 
 The web application is deployed and accessible at:
 
-**[http://195.201.113.83>:8000](http://<195.201.113.83>:8000)**
+**[http://195.201.113.83:8000](http://195.201.113.83:8000)**
 
 ## Requirements
 
